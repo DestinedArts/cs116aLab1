@@ -1,9 +1,14 @@
-## About
+# About
 Lab 1 - Triangle Intersection with Mouse Ray
 
-A mouse ray and the 3D intersection point with the pyramid. Draw a little sphere at the point of interesection. The code should work from any camera position and on any triangle of the pyramid. 
+A mouse ray and the 3D intersection point with the pyramid with a big sphere drawn at the point of interesection. The code should work from any camera position and on any triangle of the pyramid.
 
-## Notes
+**Code Editor**: Visual Studio<br>
+**Library**: OpenGL (openFrameworks)
+
+# Notes<br>
+random notes taken during class
+
 **ofApp.cpp**<br>
 * setup = initialization; called once
 * draw = default 60Hz drawn every frame
