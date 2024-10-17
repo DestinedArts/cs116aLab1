@@ -4,7 +4,8 @@ Lab 1 - Triangle Intersection with Mouse Ray
 A mouse ray and the 3D intersection point with the pyramid with a big sphere drawn at the point of interesection. The code should work from any camera position and on any triangle of the pyramid.
 
 **Code Editor**: Visual Studio<br>
-**Library**: OpenGL (openFrameworks)
+**Library**: OpenGL (openFrameworks)<br>
+**Addons**: ofxGUI, ofxAssimpModelLoader
 
 # Notes<br>
 random notes taken during class
@@ -20,7 +21,7 @@ random notes taken during class
 **Maya**<br>
 * Use Revolve.
   * Surface -> Revolve
-* Default usually not a polygon, go not do nurbs
+* Default usually not a polygon, do not do nurbs
 * Press space bar = 4 view window
 * Curves/Surfaces do Bezier
 
